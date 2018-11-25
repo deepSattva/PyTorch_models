@@ -1,7 +1,7 @@
 # Autoencoders implememted in PyTorch
 This subrepo contains PyTorch implementations of Autoencoders
 
-==================================================================
+---------------------------------------------------------------------------------------
 Below are the implementations covered (TBD links)
 
 1. Dense Autoencoders
